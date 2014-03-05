@@ -1,0 +1,42 @@
+body
+{	
+	font-family: verdana,sans-serif;
+	font-size:1.25em;
+}
+#wrapper
+{	
+	width: 75%;
+	margin: auto;
+}
+.center
+{
+	text-align: center;
+}
+.textbox 
+{ 
+    -webkit-border-radius: 5px; 
+    -moz-border-radius: 5px; 
+    border-radius: 5px; 
+    border: 1px solid #848484; 
+    outline:0; 
+    height:25px; 
+    width: 275px; 
+    
+} 
+.button
+{
+	-webkit-border-radius: 5px; 
+    -moz-border-radius: 5px; 
+    border-radius: 5px; 
+    border: 1px solid #848484; 
+    outline:0;    
+    height:29px;  
+}
+th
+{
+	text-align: left;
+}
+td
+{
+	padding: 3px
+}
